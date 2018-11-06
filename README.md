@@ -1,4 +1,4 @@
-## Namespace of modelfront
+## ModelFront Javascript client library
 
 Loading ...
 

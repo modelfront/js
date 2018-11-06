@@ -1,7 +1,11 @@
 {
   "name": "modelfront",
   "version": "1.0.0",
-  "description": "",
+  "description": "ModelFront JS client library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modelfront/js.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
